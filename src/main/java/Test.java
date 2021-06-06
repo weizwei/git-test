@@ -6,5 +6,6 @@ public class Test {
         System.out.println("git4");
         System.out.println("master");
         System.out.println("hot-fix ");
+        System.out.println("push ");
     }
 }
